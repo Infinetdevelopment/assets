@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped BTC from Ethereum",
+    "symbol": "WBTC",
+    "type": "ERC20",
+    "decimals": 8,
+    "description": "Wrapped Bitcoin from Ethereum",
+    "website": "https://bitcoin.com",
+    "explorer": "__PULSECHAIN_SCAN__/#/token/0xb17D901469B9208B17d916112988A3FeD19b5cA1",
+    "status": "active",
+    "id": "0xb17D901469B9208B17d916112988A3FeD19b5cA1"
+}

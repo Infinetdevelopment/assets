@@ -1,0 +1,11 @@
+{
+    "name": "USDC from Ethereum",
+    "symbol": "USDC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "USDC bridged over from Ethereum",
+    "website": "https://circle.com",
+    "explorer": "__PULSECHAIN_SCAN__/#/token/0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
+    "status": "active",
+    "id": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07"
+}

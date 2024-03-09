@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Ether from Ethereum",
+    "symbol": "WETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Wrapped Ether from Ethereum",
+    "website": "https://ethereum.org",
+    "explorer": "__PULSECHAIN_SCAN__/#/token/0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
+    "status": "active",
+    "id": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C"
+}

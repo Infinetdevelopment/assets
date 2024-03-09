@@ -1,0 +1,11 @@
+{
+    "name": "TEXAN",
+    "symbol": "TEXAN",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "In support of the Texas National Movement, TEXAN is the first endowment token on the blockchain!",
+    "website": "https://texan.ccc",
+    "explorer": "__PULSECHAIN_SCAN__/#/token/0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7",
+    "status": "active",
+    "id": "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7"
+}

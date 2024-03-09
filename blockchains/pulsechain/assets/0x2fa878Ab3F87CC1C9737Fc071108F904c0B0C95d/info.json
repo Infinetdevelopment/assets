@@ -1,0 +1,11 @@
+{
+    "name": "INC",
+    "symbol": "INC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Launched by Richard Heart and team, INC is the PulseX incentive token for providing LP's",
+    "website": "https://pulsechain.com",
+    "explorer": "__PULSECHAIN_SCAN__/#/token/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
+    "status": "active",
+    "id": "0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d"
+}

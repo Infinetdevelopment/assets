@@ -1,0 +1,11 @@
+{
+    "name": "Dai Stablecoin from Ethereum",
+    "symbol": "DAI",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "DAI from Ethereum",
+    "website": "https://makerdao.com/",
+    "explorer": "__PULSECHAIN_SCAN__/#/token/0xefD766cCb38EaF1dfd701853BFCe31359239F305",
+    "status": "active",
+    "id": "0xefD766cCb38EaF1dfd701853BFCe31359239F305"
+}

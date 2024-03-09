@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Pulse",
+    "symbol": "WPLS",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Wrapped Pulse",
+    "website": "https://ethereum.org",
+    "explorer": "__PULSECHAIN_SCAN__/#/token/0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+    "status": "active",
+    "id": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27"
+}

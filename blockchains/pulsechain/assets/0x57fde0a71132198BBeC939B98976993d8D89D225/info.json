@@ -1,0 +1,11 @@
+{
+    "name": "HEX from Ethereum",
+    "symbol": "HEX",
+    "type": "ERC20",
+    "decimals": 8,
+    "description": "Launched by Richard Heart and team, HEX is the first certificate of deposit on the blockchain, essentially time deposits that gain interest,",
+    "website": "https://hex.com",
+    "explorer": "__PULSECHAIN_SCAN__/#/token/0x57fde0a71132198BBeC939B98976993d8D89D225",
+    "status": "active",
+    "id": "0x57fde0a71132198BBeC939B98976993d8D89D225"
+}

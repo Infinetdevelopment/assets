@@ -1,0 +1,11 @@
+{
+    "name": "Ophir Crypto",
+    "symbol": "OPHIR",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Ophir Crypto",
+    "website": "https://ophircrypto.com/",
+    "explorer": "__PULSECHAIN_SCAN__/#/token/0xC59Be55D22CB7967ee95e5bE0770e263EE014F78",
+    "status": "active",
+    "id": "0xC59Be55D22CB7967ee95e5bE0770e263EE014F78"
+}

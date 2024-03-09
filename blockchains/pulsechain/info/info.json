@@ -1,0 +1,37 @@
+{
+    "name": "PulseChain",
+    "website": "https://pulsechain.com/",
+    "description": "Open source platform to write and distribute decentralized applications.",
+    "explorer": "https://scan.pulsechain.com/",
+    "research": "https://gopulse.com",
+    "symbol": "ETH",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "gitlab",
+            "url": "https://gitlab.com/pulsechaincom/pulsechain-mainnet"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PulseChainCom"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PulseChainCom"
+        },
+        {
+            "name": "beacon",
+            "url": "https://beacon.pulsechain.com/"
+        },
+        {
+            "name": "launchpad",
+            "url": "https://launchpad.pulsechain.com/"
+        },
+        {
+            "name": "bridge",
+            "url": "https://bridge.pulsechain.com/"
+        }
+    ]
+}

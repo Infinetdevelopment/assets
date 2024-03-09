@@ -1,0 +1,11 @@
+{
+    "name": "USDT from Ethereum",
+    "symbol": "USDT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "USDT bridged over from Ethereum",
+    "website": "https://tether.to/",
+    "explorer": "__PULSECHAIN_SCAN__/#/token/0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
+    "status": "active",
+    "id": "0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f"
+}

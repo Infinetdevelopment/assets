@@ -1,0 +1,11 @@
+{
+    "name": "Internet Money",
+    "symbol": "IM",
+    "type": "ERC20",
+    "decimals": 8,
+    "description": "The Internet Money Wallet is the first crypto wallet of its kind. Dedicated to providing users with the cleanest and most approachable user experience, the Internet Money Wallet offers features that crypto users of all experience levels will appreciate.",
+    "website": "https://internetmoney.io",
+    "explorer": "__PULSECHAIN_SCAN__/#/token/0xBBcF895BFCb57d0f457D050bb806d1499436c0CE",
+    "status": "active",
+    "id": "0xBBcF895BFCb57d0f457D050bb806d1499436c0CE"
+}

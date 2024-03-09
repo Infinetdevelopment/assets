@@ -1,0 +1,11 @@
+{
+    "name": "T.I.M.E. Dividend",
+    "symbol": "TIME",
+    "type": "ERC20",
+    "decimals": 8,
+    "description": "Holders of TIME earn passive income in PLS, ETH, BNB and MATIC and other native coins. 100% of the fees generated from in-app swaps are distributed to TIME holders. No staking. No locking your TIME. Simply hold your TIME, and earn passive income. Available on Pulsechain, BSC, Ethereum and Polygon.",
+    "website": "https://internetmoney.io",
+    "explorer": "__PULSECHAIN_SCAN__/#/token/0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
+    "status": "active",
+    "id": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58"
+}

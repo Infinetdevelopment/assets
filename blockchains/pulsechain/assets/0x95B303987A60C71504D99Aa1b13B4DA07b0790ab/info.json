@@ -1,0 +1,11 @@
+{
+    "name": "PulseX",
+    "symbol": "PLSX",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "The original decentralized exchange built by Richard Heart for Pulsechain.",
+    "website": "https://app.pulsex.com",
+    "explorer": "__PULSECHAIN_SCAN__/#/token/0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+    "status": "active",
+    "id": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab"
+}
